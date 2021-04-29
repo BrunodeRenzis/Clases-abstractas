@@ -1,0 +1,13 @@
+C:\Users\Bruno de Renzis\source\repos\Abstracción\Abstracción\obj\Debug\Abstracción.csprojAssemblyReference.cache
+C:\Users\Bruno de Renzis\source\repos\Abstracción\Abstracción\obj\Debug\Abstracción.Form1.resources
+C:\Users\Bruno de Renzis\source\repos\Abstracción\Abstracción\obj\Debug\Abstracción.Properties.Resources.resources
+C:\Users\Bruno de Renzis\source\repos\Abstracción\Abstracción\obj\Debug\Abstracción.csproj.GenerateResource.cache
+C:\Users\Bruno de Renzis\source\repos\Abstracción\Abstracción\obj\Debug\Abstracción.csproj.CoreCompileInputs.cache
+C:\Users\Bruno de Renzis\source\repos\Abstracción\Abstracción\bin\Debug\Abstracción.exe.config
+C:\Users\Bruno de Renzis\source\repos\Abstracción\Abstracción\bin\Debug\Abstracción.exe
+C:\Users\Bruno de Renzis\source\repos\Abstracción\Abstracción\bin\Debug\Abstracción.pdb
+C:\Users\Bruno de Renzis\source\repos\Abstracción\Abstracción\bin\Debug\Entidades.dll
+C:\Users\Bruno de Renzis\source\repos\Abstracción\Abstracción\bin\Debug\Entidades.pdb
+C:\Users\Bruno de Renzis\source\repos\Abstracción\Abstracción\obj\Debug\Abstracción.csproj.CopyComplete
+C:\Users\Bruno de Renzis\source\repos\Abstracción\Abstracción\obj\Debug\Abstracción.exe
+C:\Users\Bruno de Renzis\source\repos\Abstracción\Abstracción\obj\Debug\Abstracción.pdb
